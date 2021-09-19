@@ -1,4 +1,4 @@
-# MTE-Project
+# MTE Internship ML & DL Projects
 
 • Experienced the hands on working of a Data Scientist as well as an ML Professional and worked under the supervision of a project mentor
 
